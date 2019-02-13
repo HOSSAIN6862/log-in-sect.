@@ -1,0 +1,92 @@
+*{
+	marks: 0;
+}
+body{
+	background: url(../img/bg1.jpeg);
+	background-size: cover;
+	font-family: 'Major Mono Display', monospace;
+	font-family: 'ZCOOL KuaiLe', cursive;
+
+}
+.full{
+	width: 1140px;
+}
+.container{
+	height: 800px;
+	width: 900px;
+	margin-left: 45%;
+
+
+}
+.admin-pic{
+	height: 225px;
+	width: 200px;
+	display: block;
+	margin: 0 auto;
+}
+.form{
+	    text-align: center; 
+	    height: 40px;
+	    width: 60%; 
+   	    border-style: none;
+   	    border-radius: 10px;
+   	    margin: 0 auto;
+   	    display: block;
+   	    padding: 20px;
+   	    font-family: 'Major Mono Display', monospace;
+
+}
+.btn{
+	padding: 7px 30px;
+	background: none;
+	font-size: 30px;
+	margin-top:5px;
+	cursor: pointer;
+	transition: 0.9s ease;
+	}
+.btn:hover {
+    background: lavender;
+    color: black;
+    border-radius: 175px;
+    }
+.user-name{
+	height: 28px;
+    width: 100%;
+    margin: 10px 0px;
+    border: 5px;
+    border:none;
+
+}
+h2{
+	text-align: center;
+
+}
+.help{
+	height: 40px;
+	width: 100%;
+	
+
+}
+.recovery{
+	    text-align: left;
+    	font-family: sans-serif;
+   		letter-spacing: 5px;
+	    color: #fff;
+
+}
+.recovery:hover{
+	color: black;
+}
+ 
+.signup{
+		text-align: left;
+	    color: black;
+	    font-size: larger;
+	    padding-top: 10px;
+	    font-family: sans-serif;
+}
+
+
+.signup:hover{
+        color: white;
+    }
